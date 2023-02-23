@@ -13,3 +13,4 @@ from user.welcomepage import welcome
 # wel.welcome()
 
 # x = 10
+#This is main page of the application and edited by Agatees

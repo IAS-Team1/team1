@@ -37,3 +37,4 @@ print("After imnplementing third remove:\n\t",Ias_members)
 print(Ias_members[3:7])
 java_members = Ias_members.copy()
 print("After Copy implementation:\n\t",java_members)
+#This is a demo for list Functions
